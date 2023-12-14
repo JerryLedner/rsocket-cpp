@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+! /usr/bin/env#python
 # Copyright (c) Facebook, Inc. and its affiliates.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -33,3 +33,4 @@ config = {
     'github_project': 'rsocket/rsocket-cpp',
     'fbcode_builder_spec': fbcode_builder_spec,
 }
+ 
